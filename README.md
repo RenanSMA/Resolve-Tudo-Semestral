@@ -1,5 +1,5 @@
 # Resolve-Tudo-Semestral
-Este sistema promete resolver todos os problemas matemáticos de um Semestre desafiador. Com apenas algumas linhas código não há prova decisiva que fique de pé, o algoritmo permite que você encontre a Média, Moda, Mediana, Variância e Desvio Padrão de maneira criativa, simples e rápida, sem abrir mão dos conhecimentos da Matemática.
+Este sistema promete resolver todos os problemas matemáticos de um Semestre desafiador. Com apenas algumas linhas de código não há prova decisiva que fique de pé, o algoritmo permite que você encontre a Média, Moda, Mediana, Variância e Desvio Padrão de maneira criativa, simples e rápida, sem abrir mão dos conhecimentos da Matemática.
 
 **Descrição:** Em uma aula, o professor desenvolveu uma prova sobre os conteúdos estudados no semestre, os quais eram: Média, Moda, Mediana, Variância e Desvio Padrão. Foi dito que todos os estudantes poderiam utilizar calculadora no dia da avaliação. Um aluno entusiasta de programação sugeriu a brilhante possibilidade de criar um sistema solucionador dos cálculos citados anteriormente e também poder utilizá-lo na prova. Feliz com a ideia, o professor permitiu a sugestão do aluno, acreditando em uma forma criativa de resolver problemas matemáticos.
 
