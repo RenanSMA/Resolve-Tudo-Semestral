@@ -5,7 +5,7 @@ Este sistema promete resolver todos os problemas matemáticos de um Semestre des
 
 **Python:** A linguagem que mais tenho familiaridade até o momento.
 
-**__Como Utilizar:__**
+**Como Utilizar:**
 
 **1.** Informe o tamanho (utilizando um número inteiro) da lista de números que deseja os realizar cálculos sugeridos.
 
